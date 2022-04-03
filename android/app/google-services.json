@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662570018513",
+    "firebase_url": "https://accomovailableapp-default-rtdb.firebaseio.com",
+    "project_id": "accomovailableapp",
+    "storage_bucket": "accomovailableapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662570018513:android:271df6c7c3e54299d5c7f0",
+        "android_client_info": {
+          "package_name": "com.example.accomovailable_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662570018513-hp75da5p44c9plb9tfddgeopsv7smun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzAq0c6_dxrJbMxDvRixYycQbsz_TALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662570018513-hp75da5p44c9plb9tfddgeopsv7smun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
